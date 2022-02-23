@@ -63,7 +63,7 @@
         let results="";
         if(val ==1){
           result= this.data *0.8252;
-          results= "El resultado de la conversion DOlar a Euro de "+ val+" es: "+result;
+          results= "El resultado de la conversion Dolar a Euro de "+ val+" es: "+result;
         }
         if(val==2){
           result=this.data*1.2118
